@@ -1,0 +1,15 @@
+1. 	Create a new repository in github.com
+	Project Name: 	vladGitProject_01 
+	URL: 			https://github.com/volodia-luna/vladGitProject_01.git
+	Update the README.md file. 
+	
+2. 	Create folder in local disk:
+	C:\Users\Vladimir\Documents\05_Java_Projects\vladGitProject_01
+
+3.	Use GitHub desktop to clone the GitHub repository on local disk.
+	From URL:			https://github.com/volodia-luna/vladGitProject_01.git
+	To local folder:	C:\Users\Vladimir\Documents\05_Java_Projects\vladGitProject_01
+
+4.	Create Documents folder and save _logNotes.txt there.
+
+5.	Add Documents folder to Git repository and commit. 
