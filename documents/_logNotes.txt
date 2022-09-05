@@ -13,3 +13,18 @@
 4.	Create Documents folder and save _logNotes.txt there.
 
 5.	Add Documents folder to Git repository and commit. 
+
+6. 	Open Intellij IDE
+
+7. 	Create new Java project:
+	Path: 			C:\Users\Vladimir\Documents\05_Java_Projects
+	Project Name:	vladGitProject_01
+	Add files to GitHub.
+
+8. 	Create package.
+	Package Name:	com.vlad.JavaProject01
+	Class:			MainClass
+	Class:			Point
+	Class:			Circle
+	
+	
