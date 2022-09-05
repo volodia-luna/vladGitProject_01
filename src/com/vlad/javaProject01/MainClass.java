@@ -9,7 +9,7 @@ public class MainClass {
         System.out.println(" getY() -> " + center1.getY() + "\n");
         // Creating a circle.
         Circle circle1 = new Circle(center1, 3.5);
-        System.out.println("Circle parameters:"+ circle1 + "\n");
+        System.out.println("Circle parameters:\n"+ circle1 + "\n");
         System.out.println(" getRadius -> " + circle1.getRadius() + "\n");
         System.out.println(" getCenter -> " + circle1.getCenter() + "\n");
 
@@ -57,8 +57,9 @@ class Circle {
     }
     // 4. Define toString method.
     public String toString() {
+        String line0 = "------------------------------"+"\n";
         String line1 = "Circle radius: "+ this.radius + "\n";
         String line2 = "Circle center: " + this.center +"\n";
-        return line1 + line2 ;
+        return line0+line1+line2+line0 ;
     }
 }
